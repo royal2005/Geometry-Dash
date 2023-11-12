@@ -1,4 +1,4 @@
-from geometry_dash.game_features.blocks_classes import *
+from src.game_features.blocks_classes import *
 
 
 def create_map(world_width, world_height, win, edit):
