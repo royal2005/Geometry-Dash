@@ -1,5 +1,5 @@
-from geometry_dash.game_features.blocks_classes import *
-from geometry_dash.game_features.screen import *
+from src.game_features.blocks_classes import *
+from src.game_features.screen import *
 import math
 
 
