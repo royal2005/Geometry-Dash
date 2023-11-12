@@ -2,8 +2,8 @@
 from graphics import _root as root
 from keyboard import is_pressed
 
-from geometry_dash.game_features.blocks_classes import *
-from geometry_dash.game_features.map import *
+from src.game_features.blocks_classes import *
+from src.game_features.map import *
 
 
 def move_screen_right():
