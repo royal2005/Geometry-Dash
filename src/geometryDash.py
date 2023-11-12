@@ -1,9 +1,9 @@
 from graphics import _root as root
 from keyboard import is_pressed
 
-from geometry_dash.game_features.player import Player
-from geometry_dash.game_features.screen import *
-from geometry_dash.game_features.map import *
+from src.game_features.player import Player
+from src.game_features.screen import *
+from src.game_features.map import *
 
 TARGETED_FRAME_RATE = 60
 blocks = []
