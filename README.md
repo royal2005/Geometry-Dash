@@ -1,17 +1,24 @@
-# geometry dash
-created with graphics library
+# Geometry Dash
 
-there are two programs:
-one is the game geometry dash based on the famous game
-second is a world editor when you can design your own map that you will play on in the game
+## Overview
+Welcome to Geometry Dash, a project created with graphics library. This repository encompasses two distinct programs:
 
-as same as in the original game when you edit your map with the world editor you can build a block just by clicking on the mouse
-where you want to build the block and evey additional click change the type of the block where it can be:
-regular block - you walk on it in the game but if bump into it you die
-spike - if you touch it you die
-double jump - if you double jump right when you touch it it like a regular block
-imaginary block - it look like a regular block in the game but you can go through it
-start point - you can create the point that the game will start from there
-finish line - you can create the line where the game will finish
+Geometry Dash Game: Immerse yourself in an exhilarating platformer experience inspired by the renowned game.
 
-every click on a block change it to the next type of block until it back to no block
+World Editor: Unleash your creativity by designing personalized game maps. Create, tweak, and play on your own unique levels.
+
+## World Editor Features
+Intuitive Design: Craft your maps effortlessly by placing blocks with a simple mouse click.
+## Block Types:
+#### Regular Block: ###### Walkable in the game; collision results in a player's setback.
+#### Spike: Lethal on contact; navigate carefully to avoid.
+#### Double Jump: Grants an extra jump when activated, providing strategic advantages.
+#### Imaginary Block: Appears solid in the game but allows players to pass through.
+#### Start Point: Define the starting point for your Geometry Dash game.
+#### Finish Line: Establish the endpoint for a satisfying gaming experience.
+
+## World Editor Usage
+Open the World Editor program.
+Build blocks by clicking the mouse where you want them.
+Each additional click cycles through block types: regular block, spike, double jump, imaginary block, start point, finish line.
+Customize your map until satisfied.
