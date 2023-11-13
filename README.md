@@ -10,7 +10,7 @@ World Editor: Unleash your creativity by designing personalized game maps. Creat
 ## World Editor Features
 Intuitive Design: Craft your maps effortlessly by placing blocks with a simple mouse click.
 ## Block Types:
-#### Regular Block: ###### Walkable in the game; collision results in a player's setback.
+#### Regular Block: ## Walkable in the game; collision results in a player's setback.
 #### Spike: Lethal on contact; navigate carefully to avoid.
 #### Double Jump: Grants an extra jump when activated, providing strategic advantages.
 #### Imaginary Block: Appears solid in the game but allows players to pass through.
