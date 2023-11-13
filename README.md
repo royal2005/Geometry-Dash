@@ -11,6 +11,7 @@ Unleash your creativity by designing personalized game maps. Create, tweak, and 
 
 ## World Editor Features
 Intuitive Design: Craft your maps effortlessly by placing blocks with a simple mouse click.
+
 ## Block Types:
 #### Regular Block: 
 Walkable in the game; collision results in a player's setback.
@@ -30,3 +31,8 @@ Open the World Editor program.
 Build blocks by clicking the mouse where you want them.
 Each additional click cycles through block types: regular block, spike, double jump, imaginary block, start point, finish line.
 Customize your map until satisfied.
+
+## Geometry Dash Usage
+Open the Geometry Dash program.
+Avoid obstacles by pressing the spacebar.
+Win by reaching the finish line.
