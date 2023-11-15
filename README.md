@@ -1,7 +1,7 @@
 # Geometry Dash
 
 ## Overview
-Welcome to Geometry Dash, a project created with graphics library. This repository encompasses two distinct programs:
+Welcome to Geometry Dash, a project created with the graphics library. This repository encompasses two distinct programs:
 
 ### Geometry Dash Game: 
 Immerse yourself in an exhilarating platformer experience inspired by the renowned game.
